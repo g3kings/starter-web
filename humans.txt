@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gunter Drijkoningen	gunter@gdconsulting.be @g3kings
 
 # THANKS
 
